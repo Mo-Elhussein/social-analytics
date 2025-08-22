@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Airflow logs
+logs/
+airflow_logs/
+
+# Ignore dbt target
+dbt_project/target/
+dbt_project/dbt_packages/

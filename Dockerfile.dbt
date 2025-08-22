@@ -1,0 +1,8 @@
+FROM ghcr.io/dbt-labs/dbt-postgres:1.7.2
+
+WORKDIR /app/dbt_project
+
+COPY dbt_project/ /app/dbt_project
+COPY dbt_project/profiles.yml /root/.dbt/profiles.yml
+
+

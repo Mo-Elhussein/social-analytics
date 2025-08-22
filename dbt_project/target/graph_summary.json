@@ -1,0 +1,1 @@
+{"_invocation_id": "41829da2-6e13-414d-b06b-9f26c83b1960", "linked": {"0": {"name": "model.social_analytics.stg_posts", "type": "model", "succ": [1, 2, 3]}, "1": {"name": "model.social_analytics.top_posts", "type": "model"}, "2": {"name": "model.social_analytics.fct_daily_metrics", "type": "model"}, "3": {"name": "model.social_analytics.moving_avg", "type": "model"}}}

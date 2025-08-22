@@ -1,0 +1,9 @@
+id,platform,author_name,content_text,content_url,engagement_score,overall_rank,platform_rank
+19724898-cc3c-47f4-a03c-ef8b24d2d2a8,reddit,UnusualRuin7916,My friend just inherited a data infrastructure built by a guy who left 3 months ago… and it’s pure chaos,https://reddit.com/r/dataengineering/comments/1mw70hb/my_friend_just_inherited_a_data_infrastructure/,1124,1,1
+76041c18-731b-42dd-9085-5f5ee5a41a2e,reddit,AutoModerator,Quarterly Salary Discussion - Jun 2025,https://reddit.com/r/dataengineering/comments/1l0shem/quarterly_salary_discussion_jun_2025/,45,2,2
+e0751141-946d-458f-b67b-c1e7c99555c5,reddit,Constant_Sector5602,What problems does the Gold Layer solve that can't be handled by querying the Silver Layer directly?,https://reddit.com/r/dataengineering/comments/1mw82zc/what_problems_does_the_gold_layer_solve_that_cant/,21,3,3
+93551e95-d416-457d-87d2-47d4254bf9ea,reddit,GreenMobile6323,Upgrading from NiFi 1.x to 2.x,https://reddit.com/r/dataengineering/comments/1mw5gu2/upgrading_from_nifi_1x_to_2x/,8,4,4
+be32ee87-39b6-47c1-bcf5-7a298424c108,reddit,AutoModerator,Monthly General Discussion - Aug 2025,https://reddit.com/r/dataengineering/comments/1mf0d1m/monthly_general_discussion_aug_2025/,3,5,5
+308abfdb-e965-4619-8922-bc6aaef3c67a,youtube,The Lunch Break,متوسط مرتبات ال data engineer,https://youtube.com/watch?v=64STccQcZHU,0,6,1
+80380395-fbd7-45d8-95de-55d3438b25b9,youtube,AltexSoft,How Data Engineering Works,https://youtube.com/watch?v=qWru-b6m030,0,7,2
+79d6295a-7719-4f93-9c3d-f69ab4f8b76c,youtube,Data with Zach,The 2025 data engineering roadmap,https://youtube.com/watch?v=aSHg22oEGIs,0,8,3

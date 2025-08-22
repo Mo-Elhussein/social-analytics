@@ -1,0 +1,11 @@
+social_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: postgres
+      user: postgres
+      password: postgres
+      dbname: social_analytics
+      schema: analytics
+      port: 5432

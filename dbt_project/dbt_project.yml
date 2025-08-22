@@ -1,0 +1,11 @@
+name: 'social_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'social_analytics'
+
+model-paths: ["models"]
+
+models:
+  social_analytics:
+    +materialized: view
